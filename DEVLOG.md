@@ -19,3 +19,11 @@ I guess I didn't have to buy 3 different brands of these adapters oh well.
 Also seems like most of the single-digit focal length lenses are fish eye.
 
 So I'm not sure, I don't want that skewing/warping problem.
+
+10:10 PM
+
+I design the cameras inside-out, I start by modeling the parts and then fit them inside a shell.
+
+Of course here I have a design I want in mind but yeah.
+
+This is what happens though when you use off-the-shelf parts.
