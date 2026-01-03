@@ -36,6 +36,18 @@ OMG it's so beautiful!
 
 The DSI cable is nice, that means it doesn't use any GPIO pins
 
+Wiki has some info who knew
+
+https://www.waveshare.com/wiki/2.8inch_DSI_LCD
+
+Need the rotation
+
+Looks like you chain the commands together like:
+
+8:38 PM
+
+I still haven't gotten this screen to rotate damn, I'm on trixie
+
 ### 01/01/2025
 
 8:08 PM
