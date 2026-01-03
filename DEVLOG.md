@@ -1,6 +1,6 @@
 Tasks:
 
-- [ ] interface with waveshare 2.8" display (get pins)
+- [ ] interface with waveshare 2.8" display (DSI no pins)
   - [x] get display working
   - [x] figure out how to display a dynamic image-based menu with no OS GUI
     - decided to use OpenCV stream
@@ -196,6 +196,14 @@ REEEEEEEEEE lmao I can't get this cursor to go away, it's mostly away
 But when you touch the screen it shows up very briefly and goes away again
 
 Since the menu is not clickable I'm going to have to have a thread that's listening for touch input then pass that on to the menu system
+
+11:49 PM
+
+Alright I'm spent today, I was trying to get clicks to be detected, doesn't seem like it's working
+
+Not sure if that's a touch thing with openbox or what
+
+Also need to verify the framerate of the imshow, I was initially going for 60fps but I could be fine with 30fps
 
 ---
 
