@@ -2,7 +2,8 @@ Tasks:
 
 - [ ] interface with waveshare 2.8" display (get pins)
   - [x] get display working
-  - [ ] figure out how to display a dynamic image-based menu with no OS GUI
+  - [x] figure out how to display a dynamic image-based menu with no OS GUI
+    - decided to use OpenCV stream
   - [ ] get coordinate click
 - [ ] interface with OLED (get pins)
 - [ ] interface with 5D make sure center click works (get pins)
