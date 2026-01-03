@@ -168,6 +168,28 @@ Cool we have a display!
 
 I'll get rid of the extra crap but yeah
 
+10:55 PM
+
+Okay so that this point I have a blank menu now
+
+<img src="./devlog-images/blank-menu.JPG"/>
+
+Trying to figure out how to hide the cursor right now
+
+using unclutter
+
+https://superuser.com/questions/442416/can-i-hide-the-mouse-cursor-in-openbox
+
+11:04 PM
+
+This works
+
+https://bbs.archlinux.org/viewtopic.php?id=43947
+
+Although when you click it shows up, so I guess I'll have to do the transparent theme
+
+
+
 ---
 
 ### 01/01/2025
