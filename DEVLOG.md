@@ -31,6 +31,48 @@ Okay we've got clicking nice and the coordinate
 
 moving onto the 0.91" OLED now
 
+7:12 PM
+
+Soldered the GY-91 10-axis IMU
+
+Plugged in the OLED, I didn't buy a waveshare labeled one but this might be a waveshare clone
+
+Looking at their docs
+
+https://www.waveshare.com/wiki/0.91inch_OLED_Module
+
+Using GPIO 2/3 for the OLED
+
+7:18 PM
+
+Trying BCM2835
+
+Then doing the python commands
+
+Installing python3-pil as is not in venv
+
+Spidev not sure, I first just did it in venv went through then tried outside (deactivate) already installed
+
+downloading test demo
+
+7:28 PM
+
+Ran example says "Only Device_I2C, Please revise config.py !!!"
+
+Enabling I2C in raspi-config
+
+Did not work, looking for the config.py file
+
+Oh I mean I specifically setup SPI for this, probably wrong GPIO pins?
+
+Installing i2c tools to scan
+
+https://learn.adafruit.com/scanning-i2c-addresses/raspberry-pi
+
+Okay I had my SDA/SCK pins backwards, I'm using i2c 1 for the OLED, I see it show up 3c
+
+Setting I2C to 1 in config.py
+
 
 
 ---
