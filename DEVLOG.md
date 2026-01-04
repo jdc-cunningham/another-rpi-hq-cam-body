@@ -47,6 +47,10 @@ Something like this, I've probably seen something that I'm referencing/thinking 
 
 Anyway I need to work on the menu/camera software
 
+2:41 PM
+
+Damn time flies, I saw that I made the pi zero hq cam 3 years ago
+
 ### 01/03/2026
 
 6:25 PM
