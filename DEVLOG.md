@@ -1,10 +1,10 @@
 Tasks:
 
-- [ ] interface with waveshare 2.8" display (DSI no pins)
+- [x] interface with waveshare 2.8" display (DSI no pins)
   - [x] get display working
   - [x] figure out how to display a dynamic image-based menu with no OS GUI
     - decided to use OpenCV stream
-  - [ ] get coordinate click
+  - [x] get coordinate click
 - [ ] interface with OLED (get pins)
 - [ ] interface with 5D make sure center click works (get pins)
 - [ ] interface with IMU (get pins)
@@ -28,6 +28,12 @@ After this I'll be working on the software, and modeling parts and designing the
 6:40 PM
 
 Okay we've got clicking nice and the coordinate
+
+moving onto the 0.91" OLED now
+
+
+
+---
 
 ### 01/02/2026
 
